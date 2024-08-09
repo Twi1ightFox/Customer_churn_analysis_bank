@@ -4,10 +4,10 @@
 
 ## Структура проекта
 
-- analysis_outflow_bank_custom: Jupyter ноутбуки с анализом данных и построением графиков.
-- churn.csv: Данные, использованные в проекте.
+- [analysis_outflow_bank_custom](https://github.com/Dashaklen/Customer_churn_analysis_bank/blob/main/analysis_outflow_bank%20_custom.ipynb): Jupyter ноутбуки с анализом данных и построением графиков.
+- [churn.csv](https://github.com/Dashaklen/Customer_churn_analysis_bank/blob/main/churn.csv): Данные, использованные в проекте.
 - reqirements.txt: Зависимости
-- README.md: Описание проекта.
+- [README.md](https://github.com/Dashaklen/Customer_churn_analysis_bank/blob/main/README.md): Описание проекта.
 
 ## Используемые библиотеки
 
