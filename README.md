@@ -89,7 +89,7 @@
 ## Установка и использование
 
 1. Клонируйте репозиторий:
-   git clone https://github.com/Dashaklen/Customer_churn_analysis_bank.git
+   git clone https://github.com/Twi1ightFox/Customer_churn_analysis_bank.git
 2. Установить необходимые библиотеки:
    pip install -r requirements.txt
 3. Запустить Jupyter notebook для просмотра и запуска анализа.
